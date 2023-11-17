@@ -6,5 +6,6 @@ Stack: React.js, Next.js, JavaScript, TypeScript, Prime React
 ## Usage
 
 Clone the repository: `git clone https://github.com/saintyusuf/case-8.git`\
+Change directory: `cd case-8`\
 Install npm packages: `npm i`\
 Run the project: `npm run dev`
