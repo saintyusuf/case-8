@@ -30,7 +30,7 @@ const ProductDetails = () => {
   })
 
   function getProductById(id:number){
-    setProduct(products.find(product=>product.Id === id))
+    setProduct(products.find(product=>product.Id === id) || product)
   }
 
   useEffect(()=>{
